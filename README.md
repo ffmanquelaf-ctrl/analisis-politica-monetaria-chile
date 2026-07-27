@@ -1,4 +1,4 @@
-# 📈 Análisis de la Política Monetaria e Inflación en Chile (2018-2026)
+# Análisis de la Política Monetaria e Inflación en Chile (2018-2026)
 
 ## Resumen del Proyecto
 Este proyecto analiza la relación entre la **Tasa de Política Monetaria (TPM)** y la **Variación Mensual del IPC** utilizando datos oficiales extraídos de la Base de Datos Estadísticos del Banco Central de Chile. 
